@@ -1,4 +1,4 @@
-<img style="height = 150px;" src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif">
+<img style="height = 150px; width = 200px; object-fit = cover;" src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif">
 <h1 align="center">Hi, Faizan here...</h1>
 <h3 align="center">A passionate Front End Dev from Bengaluru, India.</h3>
 
