@@ -2,9 +2,9 @@
 <h1 align="center">Hi, Faizan here...</h1>
 <h3 align="center">A passionate Front End Dev from Bengaluru, India.</h3>
 
-- 🔭 I’m currently working on **React Netflix Clone**
+- 🔭 I’m currently working on **Hotel Booking App with MERN Stack**
 
-- 🌱 I’m currently learning **Next JS | Mongo DB |**
+- 🌱 I’m currently learning **Next JS | Typescript | React Native |**
 
 - 👨‍💻 All of my projects [https://github.com/Md-Faz](https://github.com/Md-Faz)
 
